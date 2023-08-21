@@ -3,6 +3,7 @@ This project is the final test for my paper "Deep Learning for Detecting Tilt An
 
 https://link.springer.com/chapter/10.1007/978-3-031-21441-7_18
 
+Please view my paper (page 255): <a href="ML43D_Final_Report.pdf"><img src="https://img.shields.io/badge/PDF-Report-red"/></a>   
 
 ## 1. How to run this project?
 Please refer to the Jupyter Notebook file for training, mesh generation, and evaluation
