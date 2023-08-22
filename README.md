@@ -13,5 +13,5 @@ are captured from a height of around 10 m above ground level. We also used the f
 
 
 ## Results
-Please refer to the Jupyter Notebook file for final results of the project
+Please refer to the Jupyter Notebook file or the paper for final results of the project
 - ultimate test.ipynb
