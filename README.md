@@ -7,6 +7,8 @@ Please view my paper (page 255): <a href="DeepLearningSolarEnergy.pdf"><img src=
 Since it was difficult to find a suitable rooftop dataset, we had to create our own, which, although not large, was proven to be sufficient to confirm the capabilities of our method. 
 our data set consists of 430 images generated through Google Maps from 6 different cites in 5 countries in Europe: Oldenburg (Germany), Wilhelmshaven (Germany), Liverpool (England), Bordeaux (France), Milan (Italy), and Vigo (Spain). These images
 are captured from a height of around 10 m above ground level (an example is depicted in the following figure). We also used the free open-source tool “LabelImg”to accelerate the labeling of images
+![](images/Capture1.PNG)
+![](images/LabelImg.PNG)
 
 ## Results
 Please refer to the Jupyter Notebook file for final results of the project
