@@ -8,8 +8,8 @@ Since it was difficult to find a suitable rooftop dataset, we had to create our 
 our data set consists of 430 images generated through Google Maps from 6 different cites in 5 countries in Europe: Oldenburg (Germany), Wilhelmshaven (Germany), Liverpool (England), Bordeaux (France), Milan (Italy), and Vigo (Spain). These images
 are captured from a height of around 10 m above ground level. We also used the free open-source tool “LabelImg”to accelerate the labeling of images. The dataset and labeled images look like below:
 
-![](images/Capture1.PNG)
-![](images/LabelImg.PNG)
+![](images/Capture.PNG)
+![](images/LabelImg1.PNG)
 
 
 ## Results
