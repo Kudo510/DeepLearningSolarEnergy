@@ -9,6 +9,7 @@ our data set consists of 430 images generated through Google Maps from 6 differe
 are captured from a height of around 10 m above ground level. We also used the free open-source tool “LabelImg”to accelerate the labeling of images. The dataset and labeled images look like below:
 
 ![](images/Capture.PNG)
+
 ![](images/LabelImg1.PNG)
 
 
