@@ -24,7 +24,7 @@ Fisrt step to detect the rooftops (using YOLOv4) in the image and subsequently c
 ![](result images/2.PNG)
 
 The next step is to classify the direction of the rooftops with solar pannels
-![](result images/3.PNG)
+![]("result images"/3.PNG)
 
 We classify the tilt angle of the solar cells of roof based on its type. Like the following the rooftop is gable type, which means the angle is in the range of (22.5°, 45°)
 ![](result images/4.PNG)
