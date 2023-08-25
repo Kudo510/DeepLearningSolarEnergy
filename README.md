@@ -24,11 +24,11 @@ are captured from a height of around 10 m above ground level. We also used the f
 
 ![](result_images/2.PNG)
 
-##### We classify the tilt angle of the solar cells of roof based on its type. Like the following the rooftop is gable type, which means the angle is in the range of (22.5°, 45°)
+##### The next step is to classify the direction of the rooftops with solar pannels
 
 ![](result_images/3.PNG)
 
-##### The next step is to classify the direction of the rooftops with solar pannels
+##### We classify the tilt angle of the solar cells of roof based on its type. Like the following the rooftop is gable type, which means the angle is in the range of (22.5°, 45°)
 
 ![](result_images/4.PNG)
 
