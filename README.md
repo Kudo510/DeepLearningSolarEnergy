@@ -2,7 +2,7 @@
 This project is the final test for my paper "Deep Learning for Detecting Tilt Angle and Orientation of Photovoltaic Panels on Satellite Imagery" published in 42nd SGAI International Conference on Artificial Intelligence, AI 2022, Cambridge, UK, December 13–15, 2022. <a href="https://link.springer.com/chapter/10.1007/978-3-031-21441-7_18"><img src="https://img.shields.io/badge/PDF-Link-greenlight"/></a>   
 
 Please view my paper: <a href="DeepLearningSolarEnergy.pdf"><img src="https://img.shields.io/badge/PDF-Paper-red"/></a>  
-## Dataset and Labeling
+## Dataset Gathering and Labeling
 
 Since it was difficult to find a suitable rooftop dataset, we had to create our own, which, although not large, was proven to be sufficient to confirm the capabilities of our method. 
 our data set consists of 430 images generated through Google Maps from 6 different cites in 5 countries in Europe: Oldenburg (Germany), Wilhelmshaven (Germany), Liverpool (England), Bordeaux (France), Milan (Italy), and Vigo (Spain). These images
